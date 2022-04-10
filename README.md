@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "20%" src="https://images5.alphacoders.com/423/thumb-1920-423148.jpg" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
