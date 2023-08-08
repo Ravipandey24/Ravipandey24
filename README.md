@@ -11,9 +11,9 @@
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Github Projects
 
-- 🌱 I’m currently learning Data Analysis, Machine Learning, Data Structures and Algorithms, React.js 
+- 🌱 I’m currently Web Development, Android Development and Data Science. 
 
 - 👯 I’m looking to collaborate on Projects , Tech Articles 
 
